@@ -15,7 +15,7 @@ public class GaeStandardExampleApplication {
     class HelloWorldController {
         @GetMapping("/")
         public String hello() {
-            return "hello world!";
+            return "bye bye!";
         }
     }
 
